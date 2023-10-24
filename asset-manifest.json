@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.21135cac.js",
+    "main.js": "/static/js/main.3c75df91.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.3bd7d081.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js",
@@ -286,7 +286,6 @@
     "static/media/nuclear-renewable-both-button.png": "/static/media/nuclear-renewable-both-button.83ed0c76a617edd629c4.png",
     "static/media/death-rates-from-energy-production-per-twh.png": "/static/media/death-rates-from-energy-production-per-twh.db32f222944181f510e8.png",
     "static/media/mark-konig-WIxAt-XyXO0-unsplash.jpg": "/static/media/mark-konig-WIxAt-XyXO0-unsplash.34ff5bc4ed5cc2d091dd.jpg",
-    "static/media/miftahulrespati.png": "/static/media/miftahulrespati.4c7cea4034a885d1f5e2.png",
     "static/media/nicolas-hippert-C82jAEQkfE0-unsplash.jpg": "/static/media/nicolas-hippert-C82jAEQkfE0-unsplash.2ab4647536a2ea7529f6.jpg",
     "static/media/lubuntu-resource.png": "/static/media/lubuntu-resource.d271449339d28c8ab4fc.png",
     "static/media/visionet.png": "/static/media/visionet.bf485d55f0214693cc04.png",
@@ -296,6 +295,7 @@
     "static/media/windows-resource.png": "/static/media/windows-resource.a485c437a3065d76fb17.png",
     "static/media/windows-no-longer-supported.png": "/static/media/windows-no-longer-supported.ae3b7252dbf147a4ef58.png",
     "static/media/medco.png": "/static/media/medco.e6f7b0ec6e6658efcd8d.png",
+    "static/media/miftahulrespati.png": "/static/media/miftahulrespati.c083b17e803c2b0d78a3.png",
     "static/media/specs.png": "/static/media/specs.6832d6153957f660431a.png",
     "static/media/graphql.png": "/static/media/graphql.8b10799ba5b8359787e8.png",
     "static/media/logo512.png": "/static/media/logo512.7429ee331fb5a586e9f1.png",
@@ -303,7 +303,7 @@
     "static/media/go.png": "/static/media/go.a3fa48aa0ab78e281f14.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.21135cac.js.map": "/static/js/main.21135cac.js.map",
+    "main.3c75df91.js.map": "/static/js/main.3c75df91.js.map",
     "refractor-core-import.3bd7d081.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.3bd7d081.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js.map",
@@ -586,6 +586,6 @@
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.21135cac.js"
+    "static/js/main.3c75df91.js"
   ]
 }
