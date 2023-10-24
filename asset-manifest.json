@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.3c75df91.js",
+    "main.js": "/static/js/main.5013c2f2.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.3bd7d081.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js",
@@ -303,7 +303,7 @@
     "static/media/go.png": "/static/media/go.a3fa48aa0ab78e281f14.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.3c75df91.js.map": "/static/js/main.3c75df91.js.map",
+    "main.5013c2f2.js.map": "/static/js/main.5013c2f2.js.map",
     "refractor-core-import.3bd7d081.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.3bd7d081.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.dd486539.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abnf.aad0efe0.chunk.js.map",
@@ -586,6 +586,6 @@
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.3c75df91.js"
+    "static/js/main.5013c2f2.js"
   ]
 }
