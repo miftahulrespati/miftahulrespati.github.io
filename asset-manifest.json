@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.094d78ab.css",
-    "main.js": "/static/js/main.30615b8a.js",
+    "main.js": "/static/js/main.7889e247.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.1054ce60.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.c9181cf5.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.91e5f017.chunk.js",
@@ -281,6 +281,7 @@
     "react-syntax-highlighter_languages_refractor_yang.js": "/static/js/react-syntax-highlighter_languages_refractor_yang.0c273a2f.chunk.js",
     "react-syntax-highlighter_languages_refractor_zig.js": "/static/js/react-syntax-highlighter_languages_refractor_zig.c33fe96b.chunk.js",
     "static/js/4027.b4c4da5f.chunk.js": "/static/js/4027.b4c4da5f.chunk.js",
+    "static/media/MIREI - By Your Side.mp3": "/static/media/MIREI - By Your Side.49575476c2e5bc3b0f1d.mp3",
     "static/media/bios.jpg": "/static/media/bios.18c2b8949f545eb1845e.jpg",
     "static/media/book-and-code.jpg": "/static/media/book-and-code.83488d549f52cae39f21.jpg",
     "static/media/illustration.jpg": "/static/media/illustration.534538e9ad9f51533ce6.jpg",
@@ -306,6 +307,6 @@
   },
   "entrypoints": [
     "static/css/main.094d78ab.css",
-    "static/js/main.30615b8a.js"
+    "static/js/main.7889e247.js"
   ]
 }
