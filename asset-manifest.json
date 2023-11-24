@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.094d78ab.css",
-    "main.js": "/static/js/main.e4f50bde.js",
+    "main.js": "/static/js/main.3b9de8eb.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.1054ce60.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.c9181cf5.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.91e5f017.chunk.js",
@@ -290,13 +290,13 @@
     "static/media/death-rates-from-energy-production-per-twh.png": "/static/media/death-rates-from-energy-production-per-twh.db32f222944181f510e8.png",
     "static/media/mark-konig-WIxAt-XyXO0-unsplash.jpg": "/static/media/mark-konig-WIxAt-XyXO0-unsplash.34ff5bc4ed5cc2d091dd.jpg",
     "static/media/nicolas-hippert-C82jAEQkfE0-unsplash.jpg": "/static/media/nicolas-hippert-C82jAEQkfE0-unsplash.2ab4647536a2ea7529f6.jpg",
+    "static/media/trade-offer.jpg": "/static/media/trade-offer.c55c04e9e5974a1254f8.jpg",
     "static/media/lubuntu-resource.png": "/static/media/lubuntu-resource.d271449339d28c8ab4fc.png",
     "static/media/visionet.png": "/static/media/visionet.bf485d55f0214693cc04.png",
     "static/media/sttn-batan-instagram.jpg": "/static/media/sttn-batan-instagram.e55a4ee1bc2219f95e9b.jpg",
     "static/media/bonne.png": "/static/media/bonne.8dd8400efb91bebadb1f.png",
     "static/media/refactory.png": "/static/media/refactory.5ddb4ba0c90b8a0780c0.png",
     "static/media/windows-resource.png": "/static/media/windows-resource.a485c437a3065d76fb17.png",
-    "static/media/trade-offer.jpg": "/static/media/trade-offer.443c3fa0c4645c29b978.jpg",
     "static/media/windows-no-longer-supported.png": "/static/media/windows-no-longer-supported.ae3b7252dbf147a4ef58.png",
     "static/media/medco.png": "/static/media/medco.e6f7b0ec6e6658efcd8d.png",
     "static/media/miftahulrespati.png": "/static/media/miftahulrespati.c083b17e803c2b0d78a3.png",
@@ -309,6 +309,6 @@
   },
   "entrypoints": [
     "static/css/main.094d78ab.css",
-    "static/js/main.e4f50bde.js"
+    "static/js/main.3b9de8eb.js"
   ]
 }
