@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.094d78ab.css",
-    "main.js": "/static/js/main.112f2c2e.js",
+    "main.js": "/static/js/main.c360b33d.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.1054ce60.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.c9181cf5.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.91e5f017.chunk.js",
@@ -282,6 +282,7 @@
     "react-syntax-highlighter_languages_refractor_zig.js": "/static/js/react-syntax-highlighter_languages_refractor_zig.c33fe96b.chunk.js",
     "static/js/4027.b4c4da5f.chunk.js": "/static/js/4027.b4c4da5f.chunk.js",
     "static/media/MIREI - By Your Side.mp3": "/static/media/MIREI - By Your Side.49575476c2e5bc3b0f1d.mp3",
+    "static/media/cooking.jpg": "/static/media/cooking.ffb0c96c3b340b638ad0.jpg",
     "static/media/bios.jpg": "/static/media/bios.18c2b8949f545eb1845e.jpg",
     "static/media/book-and-code.jpg": "/static/media/book-and-code.83488d549f52cae39f21.jpg",
     "static/media/illustration.jpg": "/static/media/illustration.534538e9ad9f51533ce6.jpg",
@@ -295,6 +296,7 @@
     "static/media/bonne.png": "/static/media/bonne.8dd8400efb91bebadb1f.png",
     "static/media/refactory.png": "/static/media/refactory.5ddb4ba0c90b8a0780c0.png",
     "static/media/windows-resource.png": "/static/media/windows-resource.a485c437a3065d76fb17.png",
+    "static/media/trade-offer.jpg": "/static/media/trade-offer.443c3fa0c4645c29b978.jpg",
     "static/media/windows-no-longer-supported.png": "/static/media/windows-no-longer-supported.ae3b7252dbf147a4ef58.png",
     "static/media/medco.png": "/static/media/medco.e6f7b0ec6e6658efcd8d.png",
     "static/media/miftahulrespati.png": "/static/media/miftahulrespati.c083b17e803c2b0d78a3.png",
@@ -307,6 +309,6 @@
   },
   "entrypoints": [
     "static/css/main.094d78ab.css",
-    "static/js/main.112f2c2e.js"
+    "static/js/main.c360b33d.js"
   ]
 }
